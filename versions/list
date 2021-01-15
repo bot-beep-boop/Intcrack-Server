@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Aritum",
+    "client-versions": [
+      "0.9"
+    ],
+    "minecraft-version": "1.8.9",
+    "developer": "bawskee",
+    "cracker": "Paolo V.",
+    "banner": "versions/Aritum/banner.jpg",
+    "previews": [
+      "versions/Aritum/preview0.jpg",
+      "versions/Aritum/preview1.jpg",
+      "versions/Aritum/preview2.jpg",
+      "versions/Aritum/preview3.jpg"
+    ]
+  },
+  {
+    "name": "Azura",
+    "client-versions": [
+      "b1.1"
+    ],
+    "minecraft-version": "1.8.9",
+    "developer": "thorbn",
+    "cracker": "Paolo V.",
+    "banner": "versions/Azura/banner.jpg",
+    "previews": [
+      "versions/Azura/preview0.jpg",
+      "versions/Azura/preview1.jpg",
+      "versions/Azura/preview2.jpg"
+    ]
+  },
+  {
+    "name": "Dortware",
+    "client-versions": [
+      "1.2.1",
+      "1.3.0",
+      "1.4.0"
+    ],
+    "minecraft-version": "1.8",
+    "developer": "Dort, Aidan, Newb, Auth",
+    "cracker": "Paolo V.",
+    "banner": "versions/Dortware/banner.jpg",
+    "previews": [
+      "versions/Dortware/preview0.jpg",
+      "versions/Dortware/preview1.jpg",
+      "versions/Dortware/preview2.jpg",
+      "versions/Dortware/preview3.jpg"
+    ]
+  },
+  {
+    "name": "Exhibition",
+    "client-versions": [
+      "v5.0"
+    ],
+    "minecraft-version": "1.8",
+    "developer": "Arithmo",
+    "cracker": "Paolo V.",
+    "banner": "versions/Exhibition/banner.jpg",
+    "previews": [
+      "versions/Exhibition/preview0.jpg",
+      "versions/Exhibition/preview1.jpg",
+      "versions/Exhibition/preview2.jpg",
+      "versions/Exhibition/preview3.jpg"
+    ]
+  },
+  {
+    "name": "Fan",
+    "client-versions": [
+      "3.1-beta"
+    ],
+    "minecraft-version": "1.8.8",
+    "developer": "Cedo, JosephWorks, Foggy",
+    "cracker": "Paolo V.",
+    "banner": "versions/Fan/banner.jpg",
+    "previews": [
+      "versions/Fan/preview0.jpg",
+      "versions/Fan/preview1.jpg",
+      "versions/Fan/preview2.jpg"
+    ]
+  },
+  {
+    "name": "Gravity",
+    "client-versions": [
+      "2.1"
+    ],
+    "minecraft-version": "1.8.8",
+    "developer": "Jinthium",
+    "cracker": "Paolo V.",
+    "banner": "versions/Gravity/banner.jpg",
+    "previews": [
+      "versions/Gravity/preview0.jpg",
+      "versions/Gravity/preview1.jpg",
+      "versions/Gravity/preview2.jpg",
+      "versions/Gravity/preview3.jpg",
+      "versions/Gravity/preview4.jpg",
+      "versions/Gravity/preview5.jpg",
+      "versions/Gravity/preview6.jpg"
+    ]
+  },
+  {
+    "name": "Pulsive",
+    "client-versions": [
+      "U12.1"
+    ],
+    "minecraft-version": "1.8.8",
+    "developer": "flashy",
+    "cracker": "Paolo V.",
+    "banner": "versions/Pulsive/banner.jpg",
+    "previews": [
+      "versions/Pulsive/preview0.jpg",
+      "versions/Pulsive/preview1.jpg",
+      "versions/Pulsive/preview2.jpg",
+      "versions/Pulsive/preview3.jpg"
+    ]
+  },
+  {
+    "name": "Rise",
+    "client-versions": [
+      "b4.0",
+      "b4.1"
+    ],
+    "minecraft-version": "1.8",
+    "developer": "Alan",
+    "cracker": "Paolo V.",
+    "banner": "versions/Rise/banner.jpg",
+    "previews": [
+      "versions/Rise/preview0.jpg",
+      "versions/Rise/preview1.jpg",
+      "versions/Rise/preview2.jpg",
+      "versions/Rise/preview3.jpg"
+    ]
+  }
+]
