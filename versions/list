@@ -118,11 +118,12 @@
     "name": "Rise",
     "client-versions": [
       "b4.0",
-      "b4.1"
+      "b4.1",
+      "b4.21"
     ],
     "minecraft-version": "1.8",
     "developer": "Alan",
-    "cracker": "Paolo V.",
+    "cracker": "Princekin \u0026 Paolo V.",
     "banner": "versions/Rise/banner.jpg",
     "previews": [
       "versions/Rise/preview0.jpg",
