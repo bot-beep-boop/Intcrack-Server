@@ -119,7 +119,8 @@
     "client-versions": [
       "b4.0",
       "b4.1",
-      "b4.21"
+      "b4.21",
+      "b4.22"
     ],
     "minecraft-version": "1.8",
     "developer": "Alan",
