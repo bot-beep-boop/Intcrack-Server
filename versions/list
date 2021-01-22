@@ -7,7 +7,7 @@
     "minecraft-version": "1.8.9",
     "developer": "bawskee",
     "cracker": "Paolo V.",
-    "banner": "versions/Aritum/banner.jpg",
+    "banner": "versions/Aritum/preview0.jpg",
     "previews": [
       "versions/Aritum/preview0.jpg",
       "versions/Aritum/preview1.jpg",
@@ -23,7 +23,7 @@
     "minecraft-version": "1.8.9",
     "developer": "thorbn",
     "cracker": "Paolo V.",
-    "banner": "versions/Azura/banner.jpg",
+    "banner": "versions/Azura/preview0.jpg",
     "previews": [
       "versions/Azura/preview0.jpg",
       "versions/Azura/preview1.jpg",
@@ -40,7 +40,7 @@
     "minecraft-version": "1.8",
     "developer": "Dort, Aidan, Newb, Auth",
     "cracker": "Paolo V.",
-    "banner": "versions/Dortware/banner.jpg",
+    "banner": "versions/Dortware/preview0.jpg",
     "previews": [
       "versions/Dortware/preview0.jpg",
       "versions/Dortware/preview1.jpg",
@@ -56,7 +56,7 @@
     "minecraft-version": "1.8",
     "developer": "Arithmo",
     "cracker": "Paolo V.",
-    "banner": "versions/Exhibition/banner.jpg",
+    "banner": "versions/Exhibition/preview0.jpg",
     "previews": [
       "versions/Exhibition/preview0.jpg",
       "versions/Exhibition/preview1.jpg",
@@ -72,7 +72,7 @@
     "minecraft-version": "1.8.8",
     "developer": "Cedo, JosephWorks, Foggy",
     "cracker": "Paolo V.",
-    "banner": "versions/Fan/banner.jpg",
+    "banner": "versions/Fan/preview0.jpg",
     "previews": [
       "versions/Fan/preview0.jpg",
       "versions/Fan/preview1.jpg",
@@ -87,7 +87,7 @@
     "minecraft-version": "1.8.8",
     "developer": "Jinthium",
     "cracker": "Paolo V.",
-    "banner": "versions/Gravity/banner.jpg",
+    "banner": "versions/Gravity/preview0.jpg",
     "previews": [
       "versions/Gravity/preview0.jpg",
       "versions/Gravity/preview1.jpg",
@@ -106,7 +106,7 @@
     "minecraft-version": "1.8.8",
     "developer": "flashy",
     "cracker": "Paolo V.",
-    "banner": "versions/Pulsive/banner.jpg",
+    "banner": "versions/Pulsive/preview0.jpg",
     "previews": [
       "versions/Pulsive/preview0.jpg",
       "versions/Pulsive/preview1.jpg",
@@ -126,12 +126,29 @@
     "minecraft-version": "1.8",
     "developer": "Alan",
     "cracker": "Princekin \u0026 Paolo V.",
-    "banner": "versions/Rise/banner.jpg",
+    "banner": "versions/Rise/preview0.jpg",
     "previews": [
       "versions/Rise/preview0.jpg",
       "versions/Rise/preview1.jpg",
       "versions/Rise/preview2.jpg",
       "versions/Rise/preview3.jpg"
+    ]
+  },
+  {
+    "name": "ZeroDay",
+    "client-versions": [
+      "b20.6"
+    ],
+    "minecraft-version": "1.8.8",
+    "developer": "Nefarious",
+    "cracker": "xBrownieCodez",
+    "banner": "versions/ZeroDay/preview0.jpg",
+    "previews": [
+      "versions/ZeroDay/preview0.jpg",
+      "versions/ZeroDay/preview1.jpg",
+      "versions/ZeroDay/preview2.jpg",
+      "versions/ZeroDay/preview3.jpg",
+      "versions/ZeroDay/preview4.jpg"
     ]
   }
 ]
