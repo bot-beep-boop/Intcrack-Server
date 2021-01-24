@@ -18,7 +18,8 @@
   {
     "name": "Azura",
     "client-versions": [
-      "b1.1"
+      "b1.1",
+      "b2.0"
     ],
     "minecraft-version": "1.8.9",
     "developer": "thorbn",
