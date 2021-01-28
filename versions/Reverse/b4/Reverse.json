@@ -23,24 +23,35 @@
       {
          "downloads":{
             "artifact":{
-               "path":"java3d/vecmath/1.5.2/vecmath-1.5.2.jar",
-               "sha1":"79846ba34cbd89e2422d74d53752f993dcc2ccaf",
-               "size":318956,
-               "url":"https://libraries.minecraft.net/java3d/vecmath/1.5.2/vecmath-1.5.2.jar"
+               "path":"oshi-project/oshi-core/1.1/oshi-core-1.1.jar",
+               "sha1":"9ddf7b048a8d701be231c0f4f95fd986198fd2d8",
+               "size":30973,
+               "url":"https://libraries.minecraft.net/oshi-project/oshi-core/1.1/oshi-core-1.1.jar"
             }
          },
-         "name":"java3d:vecmath:1.5.2"
+         "name":"oshi-project:oshi-core:1.1"
       },
       {
          "downloads":{
             "artifact":{
-               "path":"net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar",
-               "sha1":"42ccaf4761f0dfdfa805c9e340d99a755907e2dd",
-               "size":2523218,
-               "url":"https://libraries.minecraft.net/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+               "path":"net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar",
+               "sha1":"803ff252fedbd395baffd43b37341dc4a150a554",
+               "size":1008730,
+               "url":"https://libraries.minecraft.net/net/java/dev/jna/jna/3.4.0/jna-3.4.0.jar"
             }
          },
-         "name":"net.sf.trove4j:trove4j:3.0.3"
+         "name":"net.java.dev.jna:jna:3.4.0"
+      },
+      {
+         "downloads":{
+            "artifact":{
+               "path":"net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar",
+               "sha1":"e3f70017be8100d3d6923f50b3d2ee17714e9c13",
+               "size":913436,
+               "url":"https://libraries.minecraft.net/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar"
+            }
+         },
+         "name":"net.java.dev.jna:platform:3.4.0"
       },
       {
          "downloads":{
@@ -122,13 +133,13 @@
       {
          "downloads":{
             "artifact":{
-               "path":"io/netty/netty-all/4.0.15.Final/netty-all-4.0.15.Final.jar",
-               "sha1":"085cad5eb4fc8ae2ecc990dc7c411771a091ded5",
-               "size":1501009,
-               "url":"https://libraries.minecraft.net/io/netty/netty-all/4.0.15.Final/netty-all-4.0.15.Final.jar"
+               "path":"io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar",
+               "sha1":"0294104aaf1781d6a56a07d561e792c5d0c95f45",
+               "size":1779991,
+               "url":"https://libraries.minecraft.net/io/netty/netty-all/4.0.23.Final/netty-all-4.0.23.Final.jar"
             }
          },
-         "name":"io.netty:netty-all:4.0.15.Final"
+         "name":"io.netty:netty-all:4.0.23.Final"
       },
       {
          "downloads":{
@@ -221,13 +232,13 @@
       {
          "downloads":{
             "artifact":{
-               "path":"com/mojang/realms/1.6.1/realms-1.6.1.jar",
-               "sha1":"5655f6fb44aece10e5b3ad7cfee3e6936031c068",
-               "size":298229,
-               "url":"https://libraries.minecraft.net/com/mojang/realms/1.6.1/realms-1.6.1.jar"
+               "path":"com/mojang/realms/1.7.39/realms-1.7.39.jar",
+               "sha1":"c282954ce2a3bc62812e0d41c05f179b3b5839d7",
+               "size":443224,
+               "url":"https://libraries.minecraft.net/com/mojang/realms/1.7.39/realms-1.7.39.jar"
             }
          },
-         "name":"com.mojang:realms:1.6.1"
+         "name":"com.mojang:realms:1.7.39"
       },
       {
          "downloads":{
@@ -298,13 +309,13 @@
       {
          "downloads":{
             "artifact":{
-               "path":"org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar",
-               "sha1":"f58c5aabcef0e41718a564be9f8e412fff8db847",
-               "size":1014790,
-               "url":"https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar"
+               "path":"org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar",
+               "sha1":"697517568c68e78ae0b4544145af031c81082dfe",
+               "size":1047168,
+               "url":"https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar"
             }
          },
-         "name":"org.lwjgl.lwjgl:lwjgl:2.9.1",
+         "name":"org.lwjgl.lwjgl:lwjgl:2.9.4-nightly-20150209",
          "rules":[
             {
                "action":"allow"
@@ -320,13 +331,13 @@
       {
          "downloads":{
             "artifact":{
-               "path":"org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar",
-               "sha1":"290d7ba8a1bd9566f5ddf16ad06f09af5ec9b20e",
-               "size":173909,
-               "url":"https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar"
+               "path":"org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar",
+               "sha1":"d51a7c040a721d13efdfbd34f8b257b2df882ad0",
+               "size":173887,
+               "url":"https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar"
             }
          },
-         "name":"org.lwjgl.lwjgl:lwjgl_util:2.9.1",
+         "name":"org.lwjgl.lwjgl:lwjgl_util:2.9.4-nightly-20150209",
          "rules":[
             {
                "action":"allow"
@@ -341,24 +352,30 @@
       },
       {
          "downloads":{
+            "artifact":{
+               "path":"org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209.jar",
+               "sha1":"b04f3ee8f5e43fa3b162981b50bb72fe1acabb33",
+               "size":22,
+               "url":"https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209.jar"
+            },
             "classifiers":{
                "natives-linux":{
-                  "path":"org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-linux.jar",
-                  "sha1":"aa9aae879af8eb378e22cfc64db56ec2ca9a44d1",
-                  "size":571424,
-                  "url":"https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-linux.jar"
+                  "path":"org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-linux.jar",
+                  "sha1":"931074f46c795d2f7b30ed6395df5715cfd7675b",
+                  "size":578680,
+                  "url":"https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-linux.jar"
                },
                "natives-osx":{
-                  "path":"org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-osx.jar",
-                  "sha1":"2d12c83fdfbc04ecabf02c7bc8cc54d034f0daac",
-                  "size":527196,
-                  "url":"https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-osx.jar"
+                  "path":"org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-osx.jar",
+                  "sha1":"bcab850f8f487c3f4c4dbabde778bb82bd1a40ed",
+                  "size":426822,
+                  "url":"https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-osx.jar"
                },
                "natives-windows":{
-                  "path":"org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-windows.jar",
-                  "sha1":"4c517eca808522457dd95ee8fc1fbcdbb602efbe",
-                  "size":611334,
-                  "url":"https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.1/lwjgl-platform-2.9.1-natives-windows.jar"
+                  "path":"org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar",
+                  "sha1":"b84d5102b9dbfabfeb5e43c7e2828d98a7fc80e0",
+                  "size":613748,
+                  "url":"https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar"
                }
             }
          },
@@ -367,7 +384,7 @@
                "META-INF/"
             ]
          },
-         "name":"org.lwjgl.lwjgl:lwjgl-platform:2.9.1",
+         "name":"org.lwjgl.lwjgl:lwjgl-platform:2.9.4-nightly-20150209",
          "natives":{
             "linux":"natives-linux",
             "osx":"natives-osx",
@@ -609,7 +626,7 @@
    "mainClass":"net.minecraft.client.main.Main",
    "minecraftArguments":"--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userProperties ${user_properties} --userType ${user_type}",
    "minimumLauncherVersion":14,
-   "releaseTime":"2014-09-02T08:24:35+00:00",
-   "time":"2014-09-02T08:24:35+00:00",
+   "releaseTime":"2015-07-27T10:31:28+00:00",
+   "time":"2015-07-27T10:31:28+00:00",
    "type":"release"
 }
