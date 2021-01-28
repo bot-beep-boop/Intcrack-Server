@@ -32,6 +32,22 @@
     ]
   },
   {
+    "name": "Debug",
+    "client-versions": [
+      "v1.2.6"
+    ],
+    "minecraft-version": "1.8.9",
+    "developer": "havoc",
+    "cracker": "Paolo V.",
+    "banner": "versions/Debug/preview0.jpg",
+    "previews": [
+      "versions/Debug/preview0.jpg",
+      "versions/Debug/preview1.jpg",
+      "versions/Debug/preview2.jpg",
+      "versions/Debug/preview3.jpg"
+    ]
+  },
+  {
     "name": "Dortware",
     "client-versions": [
       "1.2.1",
@@ -114,6 +130,21 @@
       "versions/Pulsive/preview1.jpg",
       "versions/Pulsive/preview2.jpg",
       "versions/Pulsive/preview3.jpg"
+    ]
+  },
+  {
+    "name": "Reverse",
+    "client-versions": [
+      "b4"
+    ],
+    "minecraft-version": "1.8",
+    "developer": "UnitedEmer \u0026 Niada",
+    "cracker": "Paolo V.",
+    "banner": "versions/Reverse/preview0.jpg",
+    "previews": [
+      "versions/Reverse/preview0.jpg",
+      "versions/Reverse/preview1.jpg",
+      "versions/Reverse/preview2.jpg"
     ]
   },
   {
