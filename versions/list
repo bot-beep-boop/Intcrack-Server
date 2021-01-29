@@ -32,25 +32,8 @@
     ]
   },
   {
-    "name": "Debug",
-    "client-versions": [
-      "v1.2.6"
-    ],
-    "minecraft-version": "1.8.9",
-    "developer": "havoc",
-    "cracker": "Paolo V.",
-    "banner": "versions/Debug/preview0.jpg",
-    "previews": [
-      "versions/Debug/preview0.jpg",
-      "versions/Debug/preview1.jpg",
-      "versions/Debug/preview2.jpg",
-      "versions/Debug/preview3.jpg"
-    ]
-  },
-  {
     "name": "Dortware",
     "client-versions": [
-      "1.2.1",
       "1.3.0",
       "1.4.0"
     ],
@@ -63,22 +46,6 @@
       "versions/Dortware/preview1.jpg",
       "versions/Dortware/preview2.jpg",
       "versions/Dortware/preview3.jpg"
-    ]
-  },
-  {
-    "name": "Exhibition",
-    "client-versions": [
-      "v5.0"
-    ],
-    "minecraft-version": "1.8",
-    "developer": "Arithmo",
-    "cracker": "Paolo V.",
-    "banner": "versions/Exhibition/preview0.jpg",
-    "previews": [
-      "versions/Exhibition/preview0.jpg",
-      "versions/Exhibition/preview1.jpg",
-      "versions/Exhibition/preview2.jpg",
-      "versions/Exhibition/preview3.jpg"
     ]
   },
   {
@@ -133,27 +100,8 @@
     ]
   },
   {
-    "name": "Reverse",
-    "client-versions": [
-      "b4"
-    ],
-    "minecraft-version": "1.8",
-    "developer": "UnitedEmer \u0026 Niada",
-    "cracker": "Paolo V.",
-    "banner": "versions/Reverse/preview0.jpg",
-    "previews": [
-      "versions/Reverse/preview0.jpg",
-      "versions/Reverse/preview1.jpg",
-      "versions/Reverse/preview2.jpg"
-    ]
-  },
-  {
     "name": "Rise",
     "client-versions": [
-      "b4.0",
-      "b4.1",
-      "b4.21",
-      "b4.22",
       "b4.3"
     ],
     "minecraft-version": "1.8",
