@@ -168,6 +168,24 @@
     ]
   },
   {
+    "name": "Summer",
+    "client-versions": [
+      "v3"
+    ],
+    "minecraft-version": "1.8.8",
+    "developer": "matt, Volcano, Thor.",
+    "cracker": "Paolo V.",
+    "banner": "versions/Summer/preview0.jpg",
+    "previews": [
+      "versions/Summer/preview0.jpg",
+      "versions/Summer/preview1.jpg",
+      "versions/Summer/preview2.jpg",
+      "versions/Summer/preview3.jpg",
+      "versions/Summer/preview4.jpg",
+      "versions/Summer/preview5.jpg"
+    ]
+  },
+  {
     "name": "ZeroDay",
     "client-versions": [
       "b20.6"
