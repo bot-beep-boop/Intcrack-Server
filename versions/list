@@ -2,7 +2,8 @@
   {
     "name": "Aritum",
     "client-versions": [
-      "0.9"
+      "0.9",
+      "0.95"
     ],
     "minecraft-version": "1.8.9",
     "developer": "bawskee",
