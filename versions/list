@@ -103,7 +103,8 @@
   {
     "name": "Rise",
     "client-versions": [
-      "b4.3"
+      "b4.3",
+      "b4.4"
     ],
     "minecraft-version": "1.8",
     "developer": "Alan",
