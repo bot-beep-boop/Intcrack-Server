@@ -50,6 +50,23 @@
     ]
   },
   {
+    "name": "Eris",
+    "client-versions": [
+      "v0.1b"
+    ],
+    "minecraft-version": "1.8.9",
+    "developer": "Spec",
+    "cracker": "Paolo V.",
+    "banner": "versions/Eris/preview0.jpg",
+    "previews": [
+      "versions/Eris/preview0.jpg",
+      "versions/Eris/preview1.jpg",
+      "versions/Eris/preview2.jpg",
+      "versions/Eris/preview3.jpg",
+      "versions/Eris/preview4.jpg"
+    ]
+  },
+  {
     "name": "Fan",
     "client-versions": [
       "3.1-beta"
